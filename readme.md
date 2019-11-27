@@ -3,6 +3,8 @@
 学生成绩管理系统
 
 登陆界面：
+
+
 ![image](https://github.com/EngineCoder/Student-achievement-management-system/blob/master/Display/LoginPage.png)
 
 主页面：
