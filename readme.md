@@ -1,4 +1,4 @@
-# Student-achievement-management-system
+# Student-grade-management-system
 
 学生成绩管理系统  
 一个简单的学生课程系统，可以创建学生，课程，成绩，以及计算最高对分。
