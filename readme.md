@@ -32,7 +32,7 @@
 
 成绩分析：  
 
-![image](https://github.com/EngineCoder/Student-achievement-management-system/blob/master/Display/AnalysisPage.png)
+![image](https://github.com/EngineCoder/Student-achievement-management-system/blob/master/Display/AnalysisPage.png)  
 ![image](https://github.com/EngineCoder/Student-achievement-management-system/blob/master/Display/EnglishAnalysis.png)
 
 成绩查询：  
